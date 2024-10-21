@@ -1,2 +1,3 @@
 test file
 Testing git pull
+Testing git merge
